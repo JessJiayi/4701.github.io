@@ -19,6 +19,7 @@ Scattered Hanoi has been published online: https://jessjiayi.github.io/hanoi/
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/f3.png)
 
 > User Interface:
+> 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/main.png)
 > The main page is also first level of the game, I put an arrow on the rightmost stack to remind the player.
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/main.png)
