@@ -32,6 +32,10 @@ After the first level is cleared, the allow will disappear.
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/cleared.png)
 > 
 When the player passes the first level to the seventh lever (3 disks to 9 disks).
+> 
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/cleared2.png)
+> 
+When the player passes the eighth level or continues to play after completing the level.
 
 
 ## Author
