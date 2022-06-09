@@ -10,9 +10,18 @@ Scattered Hanoi has been published online: https://jessjiayi.github.io/hanoi/
 > Objective: The object of Scattered Hanoi is to put all the disks on the rightmost stack, players need to move the disks to the rightmost stack by constantly moving and obeying the rule that the big disk cannot be on the small plate. Each time player clears a level, a disk will be added, and the current limit of the game is ten.
  
 > Game Flow: 
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/Picture1.png)
+
+> Features: 
+> What makes this game different from the traditional Tower of Hanoi is that I chose to generate randomly instead of the disks appearing in order on the left. Let the player play differently every time, even if the player has played ten disks which is the last level, the player still can continue to play the same difficult but different level.
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/f1.png)
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/f2.png)
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/f3.png)
 
 > User Interface:
-> ![image](https://user-images.githubusercontent.com/58965055/110059307-f871a900-7d31-11eb-8cd3-429f73ce357f.png)
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/main.png)
+> The main page is also first level of the game, I put an arrow on the rightmost stack to remind the player.
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/main.png)
 
 
 ## Author
