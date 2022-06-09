@@ -10,6 +10,7 @@ Scattered Hanoi has been published online: https://jessjiayi.github.io/hanoi/
 > Objective: The object of Scattered Hanoi is to put all the disks on the rightmost stack, players need to move the disks to the rightmost stack by constantly moving and obeying the rule that the big disk cannot be on the small plate. Each time player clears a level, a disk will be added, and the current limit of the game is ten.
  
 > Game Flow: 
+> 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/Picture1.png)
 
 > Features: 
@@ -21,13 +22,12 @@ Scattered Hanoi has been published online: https://jessjiayi.github.io/hanoi/
 > User Interface:
 > 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/main.png)
-> 
 > The main page is also first level of the game, I put an arrow on the rightmost stack to remind the player.
+> 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/second.png)
-> 
 > After the first level is cleared, the allow will disappear.
-> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/cleared.png)
 > 
+> ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/cleared.png)
 > When the player passes the first level to the seventh lever (3 disks to 9 disks).
 
 
