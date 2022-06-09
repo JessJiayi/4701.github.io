@@ -22,13 +22,13 @@ Scattered Hanoi has been published online: https://jessjiayi.github.io/hanoi/
 > User Interface:
 > 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/main.png)
-> The main page is also first level of the game, I put an arrow on the rightmost stack to remind the player.
+The main page is also first level of the game, I put an arrow on the rightmost stack to remind the player.
 > 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/second.png)
-> After the first level is cleared, the allow will disappear.
+After the first level is cleared, the allow will disappear.
 > 
 > ![image](https://github.com/JessJiayi/Scattered-Hanoi/blob/gh-pages/ScreenShoot/cleared.png)
-> When the player passes the first level to the seventh lever (3 disks to 9 disks).
+When the player passes the first level to the seventh lever (3 disks to 9 disks).
 
 
 ## Author
